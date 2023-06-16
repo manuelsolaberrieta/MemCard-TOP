@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/MemCard-TOP/static/css/main.27ff86ba.css",
+    "main.js": "/MemCard-TOP/static/js/main.b828cd07.js",
+    "static/media/abuelo.png": "/MemCard-TOP/static/media/abuelo.5e4ba2df9ab09822d81d.png",
+    "static/media/sam.png": "/MemCard-TOP/static/media/sam.fec1d9d2399437bcc6a9.png",
+    "static/media/nelson.png": "/MemCard-TOP/static/media/nelson.c817ff8c4d94d7d7c837.png",
+    "static/media/marsh.png": "/MemCard-TOP/static/media/marsh.4aceddd3f9f3d663fcac.png",
+    "static/media/hibert.png": "/MemCard-TOP/static/media/hibert.bcd7ffc26bbaf5b69995.png",
+    "static/media/jomer.png": "/MemCard-TOP/static/media/jomer.a1a24f25e0fe542de819.png",
+    "index.html": "/MemCard-TOP/index.html",
+    "main.27ff86ba.css.map": "/MemCard-TOP/static/css/main.27ff86ba.css.map",
+    "main.b828cd07.js.map": "/MemCard-TOP/static/js/main.b828cd07.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.27ff86ba.css",
+    "static/js/main.b828cd07.js"
+  ]
+}
